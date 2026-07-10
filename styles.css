@@ -95,6 +95,8 @@ a:hover { color: var(--accent-hover); }
     background: #16a34a;
 }
 .accent { color: var(--accent); }
+.accent-link { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+.accent-link:hover { opacity: 0.8; }
 .gradient-text {
     color: #16a34a;
 }
