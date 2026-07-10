@@ -579,6 +579,7 @@ footer {
     .hero-text { min-width: 0; }
     .hero-text h1 .gradient-text { white-space: normal; }
     .hero-actions { justify-content: center; }
-    .hero-social { justify-content: center; }
+    .hero-social { justify-content: center; gap: 5px; }
     .hero-image img { width: 160px; height: 160px; }
+    .project-links {flex-direction: column;}
 }
