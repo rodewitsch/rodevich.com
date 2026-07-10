@@ -30,6 +30,14 @@
     });
 })();
 
+// ─── Logo scroll to top ───
+(function() {
+    const logo = document.getElementById('navLogo');
+    logo.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+})();
+
 // ─── Back to top ───
 (function() {
     const btn = document.getElementById('backToTop');

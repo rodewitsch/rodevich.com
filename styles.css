@@ -141,6 +141,7 @@ nav .container {
 .nav-logo {
     font-weight: 700;
     font-size: 1.15rem;
+    cursor: pointer;
 }
 .nav-links { display: flex; gap: 32px; list-style: none; }
 .nav-links a {
