@@ -12,7 +12,7 @@ Personal landing page of **Dmitry Rodevich** — full-stack engineer & browser-e
 
 ## 🧱 Sections
 
-- **Hero** — introduction with social links (GitHub, LinkedIn, Instagram, Facebook, Telegram, Email, VK)
+- **Hero** — introduction with social links (GitHub, LinkedIn, Instagram, Facebook, Telegram, Email, VK, Boosty)
 - **About** — background, stats (repositories, contributions, years coding)
 - **Skills** — languages, frameworks, browser extensions, DevOps, databases, and more
 - **Projects** — featured open-source projects with links to source, Chrome Web Store, Firefox Add-ons, npm, and landing pages
