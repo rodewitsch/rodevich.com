@@ -32,7 +32,7 @@ Personal landing page of **Dmitry Rodevich** — full-stack engineer & browser-e
 | [Tractor Test](https://github.com/rodewitsch/tractor-test) | React Native exam prep app |
 | [UNP Validator](https://github.com/rodewitsch/unp-validator) | Belarus UNP tax-number validator (npm) |
 | [Clean TG Chat](https://github.com/rodewitsch/clean-tg-chat) | Clean exported Telegram JSON (npm) |
-| [Tickets Sniffer Bot](https://github.com/rodewitsch/tickets-sniffer-bot) | Telegram bot that tracks the appearance of event tickets |
+| [Tickets Sniffer Bot](https://github.com/rodewitsch/tickets-sniffer-bot) | Telegram bot that tracks the appearance of event tickets ([@tickets_sniffer_bot](https://t.me/tickets_sniffer_bot)) |
 
 ## 🛠️ Tech Stack
 
