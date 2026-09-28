@@ -28,6 +28,7 @@ Personal landing page of **Dmitry Rodevich** — full-stack engineer & browser-e
 | [Swagger UI Authorizer](https://github.com/rodewitsch/swagger-ui-authorizer) | Auto-authorizes API requests in Swagger UI |
 | [Base64 Coder](https://github.com/rodewitsch/base-64-coder) | Encode/decode base64 and JWT tokens |
 | [Zepp OS Transport BY](https://github.com/rodewitsch/zepp-os-transport-by) | Public-transport arrivals on Amazfit Bip 6 |
+| [Amazfit Simple Watchface](https://github.com/rodewitsch/amazfit-simple-watchface) | Minimal readability-first watchface for Amazfit (Zepp OS) |
 | [Carbone](https://github.com/rodewitsch/carbone) | Open-source report generator (contributor) |
 | [Tractor Test](https://github.com/rodewitsch/tractor-test) | React Native exam prep app |
 | [UNP Validator](https://github.com/rodewitsch/unp-validator) | Belarus UNP tax-number validator (npm) |
